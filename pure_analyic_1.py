@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 
 import operator 
 
+#Github test update
+
 util_a = 2
 cost_a = 0.8
 w = 1
